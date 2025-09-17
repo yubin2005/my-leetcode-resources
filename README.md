@@ -6,6 +6,9 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 
 👉 If you want to master DSA patterns, checkout [AlgoMaster.io](https://algomaster.io)
 
+## Personal Feeling 
+The most helpful resources I’ve found for practicing are from [灵茶山艾府](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
+
 ## 💡 Tips
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
