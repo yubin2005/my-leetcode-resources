@@ -56,17 +56,27 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 
 
 ## 📝 Must-Read Leetcode Articles
-- [Sliding Window Template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
-- [Two Pointers Patterns](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
-- [Collections of Important String Questions](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
-- [Substring Problem Template](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
-- [Binary Search Template](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
-- [A General Approach to Backtracking Questions](https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/)
-- [Monotonic Stack Template](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
-- [Heap Patterns](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
-- [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
-- [Dynamic Programming Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
-- [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
+- [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
+- [Two Pointers Pattern](https://www.youtube.com/watch?v=QzZ7nmouLTI)
+- [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
+- [Prefix Sum Pattern](https://www.youtube.com/watch?v=yuws7YK0Yng)
+- [Fast and Slow Pointers Pattern](https://www.youtube.com/watch?v=b139yf7Ik-E)
+- [Top 'K' Elements Pattern](https://www.youtube.com/watch?v=6_v6OoxvMOE)
+- [Kadane's Algorithm](https://www.youtube.com/watch?v=NUWAXbSlsws)
+- [Sliding Window Pattern](https://www.youtube.com/watch?v=y2d0VHdvfdc)
+- [Linked List In-place Reversal Pattern](https://www.youtube.com/watch?v=auoTGovuo9A)
+- [Monotonic Stack Pattern](https://www.youtube.com/watch?v=DtJVwbbicjQ)
+- [Overlapping Intervals Pattern](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
+- [Backtracking Pattern](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
+- [Modified Binary Search Pattern](https://blog.algomaster.io/p/d0d81b04-4c2a-4b45-a101-5137c3146686)
+- [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
+  - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
+  - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE)
+- [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+- [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
+- [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+
 
 ## ✅ Curated Problems
 - [AlgoMaster 300](https://algomaster.io/practice/dsa-patterns)
