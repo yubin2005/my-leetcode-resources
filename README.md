@@ -41,26 +41,19 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
 ## 🚀 Patterns
-- [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
-- [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
-- [Two Pointers Pattern](https://www.youtube.com/watch?v=QzZ7nmouLTI)
-- [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
-- [Prefix Sum Pattern](https://www.youtube.com/watch?v=yuws7YK0Yng)
-- [Fast and Slow Pointers Pattern](https://www.youtube.com/watch?v=b139yf7Ik-E)
-- [Top 'K' Elements Pattern](https://www.youtube.com/watch?v=6_v6OoxvMOE)
-- [Kadane's Algorithm](https://www.youtube.com/watch?v=NUWAXbSlsws)
-- [Sliding Window Pattern](https://www.youtube.com/watch?v=y2d0VHdvfdc)
-- [Linked List In-place Reversal Pattern](https://www.youtube.com/watch?v=auoTGovuo9A)
-- [Monotonic Stack Pattern](https://www.youtube.com/watch?v=DtJVwbbicjQ)
-- [Overlapping Intervals Pattern](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
-- [Backtracking Pattern](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
-- [Modified Binary Search Pattern](https://blog.algomaster.io/p/d0d81b04-4c2a-4b45-a101-5137c3146686)
-- [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
-  - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
-  - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
-- [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
-- [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
-- [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+- **Sliding Window & Two Pointers** (fixed-length / variable-length / single sequence / double sequence / three pointers / grouped loops)
+- **Binary Search** (binary search on answer / minimize the maximum / maximize the minimum / k-th smallest)
+- **Monotonic Stack** (basic / rectangle area / contribution method / lexicographically smallest)
+- **Grid Graphs** (DFS / BFS / comprehensive applications)
+- **Bit Manipulation** (basic / properties / bit splitting / trial filling / identities / problem-solving thinking)
+- **Graph Algorithms** (DFS / BFS / topological sort / cycle-tree decomposition / shortest path / minimum spanning tree / network flow)
+- **Dynamic Programming** (intro / knapsack / partition / state machine / interval / bitmask / digit / data-structure optimization / tree-shaped / game theory / expected value)
+- **Common Data Structures** (enumeration techniques / prefix sum / difference array / stack / queue / heap / trie / union-find / BIT / segment tree)
+- **Mathematical Algorithms** (number theory / combinatorics / probability & expectation / game theory / computational geometry / randomized algorithms)
+- **Greedy & Problem-Solving Thinking** (basic greedy / regret / intervals / lexicographical order / math / thinking / brain teasers / constructive methods)
+- **Linked List, Binary Tree & Backtracking** (front & rear pointers / fast & slow pointers / DFS / BFS / tree diameter / LCA / general trees)
+- **Strings** (KMP / Z-function / Manacher / string hashing / Aho-Corasick automaton / suffix array / subsequence automaton)
+
 
 ## 📝 Must-Read Leetcode Articles
 - [Sliding Window Template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
@@ -113,7 +106,3 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 Your contributions are most welcome!
 
 ---
-
-<p align="center">
-  <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
-</p>
