@@ -41,21 +41,6 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
 ## 🚀 Patterns
-- **Sliding Window & Two Pointers** (fixed-length / variable-length / single sequence / double sequence / three pointers / grouped loops)
-- **Binary Search** (binary search on answer / minimize the maximum / maximize the minimum / k-th smallest)
-- **Monotonic Stack** (basic / rectangle area / contribution method / lexicographically smallest)
-- **Grid Graphs** (DFS / BFS / comprehensive applications)
-- **Bit Manipulation** (basic / properties / bit splitting / trial filling / identities / problem-solving thinking)
-- **Graph Algorithms** (DFS / BFS / topological sort / cycle-tree decomposition / shortest path / minimum spanning tree / network flow)
-- **Dynamic Programming** (intro / knapsack / partition / state machine / interval / bitmask / digit / data-structure optimization / tree-shaped / game theory / expected value)
-- **Common Data Structures** (enumeration techniques / prefix sum / difference array / stack / queue / heap / trie / union-find / BIT / segment tree)
-- **Mathematical Algorithms** (number theory / combinatorics / probability & expectation / game theory / computational geometry / randomized algorithms)
-- **Greedy & Problem-Solving Thinking** (basic greedy / regret / intervals / lexicographical order / math / thinking / brain teasers / constructive methods)
-- **Linked List, Binary Tree & Backtracking** (front & rear pointers / fast & slow pointers / DFS / BFS / tree diameter / LCA / general trees)
-- **Strings** (KMP / Z-function / Manacher / string hashing / Aho-Corasick automaton / suffix array / subsequence automaton)
-
-
-## 📝 Must-Read Leetcode Articles
 - [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
 - [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
 - [Two Pointers Pattern](https://www.youtube.com/watch?v=QzZ7nmouLTI)
@@ -76,6 +61,21 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 - [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
 - [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+
+
+
+## 📝 Must-Read Leetcode Articles
+- [Sliding Window Template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
+- [Two Pointers Patterns](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
+- [Collections of Important String Questions](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
+- [Substring Problem Template](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
+- [Binary Search Template](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- [A General Approach to Backtracking Questions](https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/)
+- [Monotonic Stack Template](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
+- [Heap Patterns](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
+- [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
+- [Dynamic Programming Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+- [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
 
 
 ## ✅ Curated Problems
