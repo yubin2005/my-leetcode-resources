@@ -113,6 +113,5 @@ The most helpful resources I’ve found for practicing are from [灵茶山艾府
 - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
-Your contributions are most welcome!
 
 ---
