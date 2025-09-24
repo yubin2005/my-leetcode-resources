@@ -2,7 +2,7 @@
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 
-This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
+This repository contains LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 👉 If you want to master DSA patterns, checkout [AlgoMaster.io](https://algomaster.io)
 
